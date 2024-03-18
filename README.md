@@ -30,4 +30,4 @@ I reinforced my knowledge of Flex and how to use it faster. I don't need to thin
 Concerning what I really learned here, I didn't know how to add an image before a text but I actually found out very quickly and on my own so I'm proud of it.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/bomberqlf)
+- Frontend Mentor - [@bomberqlf](https://www.frontendmentor.io/profile/bomberqlf)
